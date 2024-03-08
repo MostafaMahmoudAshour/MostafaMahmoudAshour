@@ -1,3 +1,5 @@
+![myimage](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
+
 <p align="center" >
   <a href="#" style="background-color: black; color: orange;"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Junior+Data+Sceintist+;A+Computer+Science+Student&center=true&width=550&height=50"></a>
 </p>
