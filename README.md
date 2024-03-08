@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Junior+Data+Science+Developer)](https://git.io/typing-svg)
-
 <h1 align="center">Hi , I'm Mostafa Mahmoud Ashour</h1>
 <h3 align="center">A passionate Junior Data Analyst& Data Scientist from Egypt</h3>
 
