@@ -1,10 +1,11 @@
-<p align="center" >
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Passionate+Programmer+🧑‍💻;A+Data+Sceince+Student+🪟;Python%20|%20Statistics%20|%20Probability🍃%20&center=true&width=550&height=50"></a>
+<h2 align="center">Hi , I'm Mostafa Mahmoud Ashour</h2>
+<h3 align="center">A passionate Junior Data Analyst& Data Scientist from Egypt</h3>
+
+<p align="center" style="background-color: black; color: orange;">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Junior+Data+Sceintist+;A+Computer+Science+Student&center=true&width=550&height=50"></a>
 </p>
 
 
-<h2 align="center">Hi , I'm Mostafa Mahmoud Ashour</h2>
-<h3 align="center">A passionate Junior Data Analyst& Data Scientist from Egypt</h3>
 
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
@@ -19,7 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-mahmoud-ashour-b69373265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-mahmoud-ashour-b69373265/" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-mahmoud-ashour-b69373265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-mahmoud-ashour-b69373265/" height="30" width="40" /></a> -->
+
+<a href="(linkedin.com/in/mostafa-mahmoud-ashour-b69373265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwTbOFMQ4QMOkQ6LpuO5Awg%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/MostafaMahmoudAshour" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Mahmoud%20Ashour-0077B5?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
