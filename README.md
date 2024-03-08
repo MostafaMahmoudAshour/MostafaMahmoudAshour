@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mostafa-mahmoud-ashour-b69373265)
-[![Github](https://img.shields.io/badge/GitHub-%24292e.svg?logo=github&logoColor=white)](https://github.com/MostafaMahmoudAshour)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/linkedin.com/in/mostafa-mahmoud-ashour-b69373265)
+![Github](https://img.shields.io/badge/GitHub-%24292e.svg?logo=github&logoColor=white)(https://github.com/MostafaMahmoudAshour)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
