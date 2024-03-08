@@ -1,10 +1,7 @@
-<a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Mostafa+Mahmoud+Ashour;Junior+Data+Science+Developer" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Mostafa+Mahmoud+Ashour;Junior+Data+Science+Developer" alt="Typing SVG" /></a>
 <h1 align="center">Hi , I'm Mostafa Mahmoud Ashour</h1>
 <h3 align="center">A passionate Junior Data Analyst& Data Scientist from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafamahmoudashour&label=Profile%20views&color=0e75b6&style=flat" alt="mostafamahmoudashour" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafamahmoudashour" alt="mostafamahmoudashour" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
@@ -29,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafamahmoudashour&show_icons=true&locale=en" alt="mostafamahmoudashour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafamahmoudashour&" alt="mostafamahmoudashour" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafamahmoudashour&label=Profile%20views&color=0e75b6&style=flat" alt="mostafamahmoudashour" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafamahmoudashour" alt="mostafamahmoudashour" /></a> </p>
