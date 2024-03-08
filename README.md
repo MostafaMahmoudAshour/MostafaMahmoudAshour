@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(linkedin.com/in/mostafa-mahmoud-ashour-b69373265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwTbOFMQ4QMOkQ6LpuO5Awg%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Mahmoud%20Ashour-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="linkedin.com/in/mostafa-mahmoud-ashour-b69373265" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Mahmoud%20Ashour-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
