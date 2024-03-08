@@ -1,5 +1,14 @@
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Mostafa+Mahmoud+Ashour;Junior+Data+Science+Developer" alt="Typing SVG" /></a>
-<h1 align="center">Hi , I'm Mostafa Mahmoud Ashour</h1>
+<p align="center" >
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Passionate+Programmer+🧑‍💻;A+Data +Science+Student%20|%20Probability🍃%20&center=true&width=550&height=50"></a>
+</p>
+<p align="left" width ="100%" height = "400">
+  
+  <img src="https://github.com/KhaledEkramy/account-gif-photo/raw/main/githubGif.gif" alt="GIF" align="left" width="70%" height="400">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="right" height="400" width="30%"> 
+  
+</p>
+
+<h2 align="center">Hi , I'm Mostafa Mahmoud Ashour</h2>
 <h3 align="center">A passionate Junior Data Analyst& Data Scientist from Egypt</h3>
 
 
