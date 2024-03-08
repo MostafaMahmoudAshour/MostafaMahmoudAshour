@@ -1,4 +1,4 @@
-<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Mostafa+Mahmoud+Ashour;Junior+Data+Science+Developer" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Mostafa+Mahmoud+Ashour;Junior+Data+Science+Developer" alt="Typing SVG" /></a>
 <h1 align="center">Hi , I'm Mostafa Mahmoud Ashour</h1>
 <h3 align="center">A passionate Junior Data Analyst& Data Scientist from Egypt</h3>
 
