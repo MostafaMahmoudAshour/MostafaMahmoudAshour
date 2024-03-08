@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mostafa Mahmoud Ashour</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Junior+Data+Science+Developer)](https://git.io/typing-svg)
+
+<h1 align="center">Hi , I'm Mostafa Mahmoud Ashour</h1>
 <h3 align="center">A passionate Junior Data Analyst& Data Scientist from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafamahmoudashour&label=Profile%20views&color=0e75b6&style=flat" alt="mostafamahmoudashour" /> </p>
